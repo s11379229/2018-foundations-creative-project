@@ -1,4 +1,4 @@
-# 2018-foundations-creative-project\
+# 2018-foundations-creative-project
 ## @TODO:
  - Title screen
  - choosing characters screen
